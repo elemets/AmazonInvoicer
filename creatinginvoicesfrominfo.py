@@ -26,9 +26,9 @@ import os.path as path
 
 
 def create_invoices(marketplace):
-    access_key = 'AKIAJ4HPAZOAKD66TRTA' #replace with your access key
+    access_key = # #replace with your access key
     seller_id = 'A2034TBO3FX4MA' #replace with your seller id
-    secret_key = '+PqcjI4wwB6lxcczgZki2D1PUW2x94NI38BWG14p' #replace with your secret key
+    secret_key = # #replace with your secret key
     marketplace_uk = marketplace
     
     marketplacefolder = ''
